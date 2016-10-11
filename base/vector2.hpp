@@ -1,0 +1,15 @@
+//
+// Created by swmn4471 on 2016/10/11.
+//
+
+#ifndef INC_201610PYGEOMETRY_VECTOR2_HPP
+#define INC_201610PYGEOMETRY_VECTOR2_HPP
+
+
+class Vector2 {
+
+};
+
+
+
+#endif //INC_201610PYGEOMETRY_VECTOR2_HPP
